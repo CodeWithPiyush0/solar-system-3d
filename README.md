@@ -62,6 +62,12 @@ solar-system-3d/
 
 ---
 
+## Demo Video
+
+[ Watch the Demo Video](https://drive.google.com/file/d/1pW9IkvMQNg-zMgWbURyylSG8khUnWWW7/view?usp=sharing)
+
+---
+
 ##  **Credits**
 
 Built using [Three.js](https://threejs.org/).  
